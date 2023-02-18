@@ -1,0 +1,9 @@
+jpabook/jpashop/domain/Delivery.class
+jpabook/jpashop/domain/OrderItem.class
+jpabook/jpashop/domain/Order.class
+jpabook/Main.class
+jpabook/jpashop/domain/Category.class
+jpabook/jpashop/domain/DeliveryStatus.class
+jpabook/jpashop/domain/Member.class
+jpabook/jpashop/domain/Item.class
+jpabook/jpashop/domain/OrderStatus.class
